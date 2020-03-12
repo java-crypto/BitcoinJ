@@ -3,7 +3,6 @@
  * Programmierer/Programmer: Michael Fehr
  * Copyright/Copyright: Michael Fehr & andere/others
  * Lizenttext/Licence: verschiedene Lizenzen / several licenses
- * https://github.com/java-crypto/Bitcoin/blob/master/Bitcoin%20Wallet%20Software%20Electrum%20Verification/LICENCE
  * getestet mit/tested with: Java Runtime Environment 11.0.5 x64
  * verwendete IDE/used IDE: intelliJ IDEA 2019.3.1
  * Datum/Date (dd.mm.jjjj): 11.03.2020
