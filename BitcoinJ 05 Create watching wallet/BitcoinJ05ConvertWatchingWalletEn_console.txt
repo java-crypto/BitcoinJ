@@ -1,0 +1,259 @@
+Error:
+BitcoinJ 05 Create a watching wallet from a regular one
+Existing file needs to get deleted manually: bitcoinj02createwalletW.wallet
+Existing file needs to get deleted manually: bitcoinj02createwalletW.spvchain
+Please delete the files above manually and restart the program. The program ends now.
+
+
+BitcoinJ 05 Create a watching wallet from a regular one
+
+We are using the Bitcoin Testnet and not the Mainnet
+
+Load the Full wallet: bitcoinj02createwallet.wallet
+Loading successfull : bitcoinj02createwallet.wallet
+[main] WARN org.bitcoinj.core.Context - Implicitly creating context. This is a migration step and this message will eventually go away.
+[main] INFO org.bitcoinj.core.Context - Creating bitcoinj 0.15.6 context.
+**********************************************************************************
+Dump the full wallet: bitcoinj02createwallet.wallet
+Wallet
+Balances:
+  0.01626622 BTC ESTIMATED
+  0.01626622 BTC AVAILABLE
+  0.01626622 BTC ESTIMATED_SPENDABLE
+  0.01626622 BTC AVAILABLE_SPENDABLE
+Transactions:
+  0 pending
+  2 unspent
+  2 spent
+  0 dead
+Last seen best block: 1669600 (2020-03-12T10:22:01Z): 00000000bfdc0927b5c5ccd2b6d6e7c77002b6207a2bf57d2ca7897c93b44506
+
+Keys:
+Earliest creation time: 2020-02-29T09:44:25Z
+  addr:mjLMNLydrmt2JerdCSc8sZCTMuujMXpero,tb1q980nq50prlpulx3t9r46jxa9csd8qh4ltz0en6  hash160:29df3051e11fc3cf9a2b28eba91ba5c41a705ebf  creationTimeSeconds:1582969466 [2020-02-29T09:44:26Z]  (imported)
+  addr:mnXCDFQwz4cs7eneMCnU5ngRfhzbax3bea,tb1qfn2877ts2mk05e2p79wp77ctvev60092390d3g  hash160:4cd47f797056ecfa6541f15c1f7b0b6659a7bcaa  creationTimeSeconds:1582969466 [2020-02-29T09:44:26Z]  (imported)
+  addr:mnRTQHcZo3wn6GdaZCsCccdEbp58zEFinn,tb1qfwl2avjrmkusg5yttwke6lrm4urj4qpyzcklha  hash160:4bbeaeb243ddb904508b5bad9d7c7baf072a8024  creationTimeSeconds:1582969466 [2020-02-29T09:44:26Z]  (imported)
+  addr:mg6fpLDT77SsMUsm3oaQQpAWQ2JwQ7jaKr,tb1qqesxxwg22yksnfnzx7xglzhxytrm5fnuy363h9  hash160:066063390a512d09a662378c8f8ae622c7ba267c  creationTimeSeconds:1582969466 [2020-02-29T09:44:26Z]  (imported)
+  addr:mgzuJkArrMvtrb3BySYnCHdkN1BLtwizsf,tb1qzpq5w3zcahmjkjgn6petz5zll64dlrplhyxe3y  hash160:1041474458edf72b4913d072b1505ffeaadf8c3f  creationTimeSeconds:1582969466 [2020-02-29T09:44:26Z]  (imported)
+Seed birthday:     1582969465  [2020-02-29T09:44:25Z]
+Ouput script type: P2PKH
+Key to watch:      tpubD8WRr3vpDwybtseRYzbP739wJw4vSMcRAvw6QifMh5ZNJTKwp5QRmymsjjLHp6kZqMPAVEqsZcAfqSApUS8mtLbwzyxAM5XFQMh3eZ73PRy
+Lookahead siz/thr: 100/33
+  addr:miaLUm4yeBv7XEfx9u9LXCeCvS9Y7GL3gE  hash160:218c24dd87b2b87a3405518512cbd6e6dfa1c9f6  (M, root)
+  addr:mogznRmPEcfXBJimuGM8CojsWUtPVfQ3VM  hash160:59a73e67ba416d45b46da3be18b9f3f0004ee364  (M/0H, account)
+  addr:mrng5UWQZgVDRK5i1VqaAAAvcZQpaS4iXN  hash160:7ba28078b4fed09e357e94ed8e161205594baeea  (M/0H/0, external)
+  addr:mywm94fnykAXEw6ZcFFpha83LE37WU8EXc  hash160:ca2359f7364347cd452ed41e11c744e52538228a  (M/0H/1, internal)
+  addr:n3YE2rPKNhefnjrSHvEScXazNaSyeK52ML  hash160:f190520f1bf78f5f418ec574a4b0ffcc67c3e8bd  (M/0H/0/0)
+  addr:mv9oQZVFgjb7Y1RSR2Phpg3F1DnrRSLuG5  hash160:a089bb7dbebabee14692fedd5e1e1a91e98e89ee  (M/0H/0/1)
+  addr:n3Wa5ZC1ihiR4BbUBU2tfq4A7v14kanTiq  hash160:f140390225dabfac9d9a5157f5f27140948f9a75  (M/0H/0/2)
+  addr:mnzUr2qbm8gDQQoMjz3k9UhiPuNq6QDFA5  hash160:51fd9d4bf19749a00f87b5166bd4ebbd93e0661c  (M/0H/0/3)
+  addr:myA5v3sQo4VdhFGNJ9Gv22aRLnw7q7KhDw  hash160:c17fe3e9ea4561d70dc255a266d5eab4c8e10997  (M/0H/1/0)
+  addr:mmkoqyZzzP9fPS6LD6i1xPy7UtAkX1YLi7  hash160:446f865811cad957a865e4514e83f1234bf708d8  (M/0H/1/1)
+  addr:miH8TPAMGt4uhbaUtM49E9UVU55u5TYpo6  hash160:1e4b0925a687b2b6bd19c3aa30401dbaf8438d2f  (M/0H/1/2)
+
+>>> UNSPENT:
+-0.001425 BTC total value (sends 0.00575738 BTC and receives 0.00433238 BTC)
+  confidence: Seen by 10 peers (most recently: 2020-03-12T10:17:14Z). Appeared in best chain at height 1669600, depth 1. Source: NETWORK
+  3b04ff0742625ad5123e3a6bc74b407fde68e098c97244bd6a413b9550effe34
+  updated: 2020-03-12T10:07:00Z
+  purpose: USER_PAYMENT
+     in   PUSHDATA(72)[3045022100f873e0f5d4d3b9302aaa2cb374443e000a5c2e17cdd44bb4389056a36ab935880220632dd6451bcf235f20393f3545eaec98a0159fda9281031eb1851bf5e5f90cc301] PUSHDATA(33)[0325eab72b88d818f9b61456586151eeeafed64687c0ea666e8b9c64d57074a435]  0.00575738 BTC
+          P2PKH addr:myA5v3sQo4VdhFGNJ9Gv22aRLnw7q7KhDw  outpoint:905277665a3eb6cd1cf0af30b00f15db3ec6fc7ae86b3c150aa2fdcdb589d0b1:0
+     out  HASH160 PUSHDATA(20)[41a37afc980ac078df37b24f2a687102f79b0ab3] EQUAL  0.0012 BTC
+          P2SH addr:2MyEHka6Whdt87LyK3VuUGGfuWkNTtSD3Hj
+     out  DUP HASH160 PUSHDATA(20)[446f865811cad957a865e4514e83f1234bf708d8] EQUALVERIFY CHECKSIG  0.00433238 BTC
+          P2PKH addr:mmkoqyZzzP9fPS6LD6i1xPy7UtAkX1YLi7
+     fee  0.00100446 BTC/kB, 0.000225 BTC for 224 bytes
+0.01193384 BTC total value (sends 0.00 BTC and receives 0.01193384 BTC)
+  confidence: Seen by 15 peers (most recently: 2020-03-12T10:17:14Z). Appeared in best chain at height 1669600, depth 1. Source: NETWORK
+  aa844f9e5f93716e5207b1479ba9c1209a3660a1a1514f9f0d6b3fa0164e1770, wtxid bace738da6e6564ea8e1f2a0e861a4eefa3fbbd24d5600490c616d5b71b22e08
+  updated: 2020-03-12T10:03:18Z
+  version 2
+  time locked until block 1669599
+  purpose: UNKNOWN
+     in   PUSHDATA(22)[0014c8ddfc57886eefc15d8aca178e0af380bfc438e6]
+          witness:304402203f446ad12147b0c2d765767e844e6c44c9f72fb7662e720d1ba90adc9a723a730220441130bcec59dba0d47a8bc1b679e157ff7a08b1ca98561db9adc16e3dd87b2c01 022142a70a3d1c0e197c2031a2101bbb0192d915f0f0a00d2ead931b8d8a2e3010
+          unconnected  outpoint:b28a7c419643181599db28f288c861d4ca9c87f26a3ea82028fc787f51acb5ee:1
+          sequence:fffffffe
+     out  HASH160 PUSHDATA(20)[d41022753b1f1f4fd4c2f2e7cdd51afd86623b43] EQUAL  71.17587963 BTC
+          P2SH addr:2NCaWa1AswER8a2tTNFbRrRgbo6nnAEHmKb
+     out  DUP HASH160 PUSHDATA(20)[f140390225dabfac9d9a5157f5f27140948f9a75] EQUALVERIFY CHECKSIG  0.01193384 BTC
+          P2PKH addr:n3Wa5ZC1ihiR4BbUBU2tfq4A7v14kanTiq
+
+>>> SPENT:
+-0.005225 BTC total value (sends 0.01098238 BTC and receives 0.00575738 BTC)
+  confidence: Seen by 5 peers (most recently: 2020-03-11T13:55:19Z). Appeared in best chain at height 1669539, depth 62. Source: NETWORK
+  905277665a3eb6cd1cf0af30b00f15db3ec6fc7ae86b3c150aa2fdcdb589d0b1
+  updated: 2020-03-11T13:41:17Z
+  purpose: USER_PAYMENT
+     in   PUSHDATA(71)[304402201c175385ce3dd9ca411060949b3f5bfc16840623236aee73bb88002ab5cdb0fc0220797f97d2fedf72de4493e7c745cd7b0f55ee416a4f84adb95815d418545dfead01] PUSHDATA(33)[02c8508a80ac5c29b891a443b599e827155a71cb9ab702c3745a083bbbdc98155a]  0.01098238 BTC
+          P2PKH addr:n3YE2rPKNhefnjrSHvEScXazNaSyeK52ML  outpoint:18866d7e03a0b8958769382afe24ff7671fbc911cbdf3006fd1fbb3a3c49c4cf:0
+     out  DUP HASH160 PUSHDATA(20)[c17fe3e9ea4561d70dc255a266d5eab4c8e10997] EQUALVERIFY CHECKSIG  0.00575738 BTC
+          P2PKH addr:myA5v3sQo4VdhFGNJ9Gv22aRLnw7q7KhDw  spent by:3b04ff0742625ad5123e3a6bc74b407fde68e098c97244bd6a413b9550effe34:0
+     out  HASH160 PUSHDATA(20)[41a37afc980ac078df37b24f2a687102f79b0ab3] EQUAL  0.005 BTC
+          P2SH addr:2MyEHka6Whdt87LyK3VuUGGfuWkNTtSD3Hj
+     fee  0.00100896 BTC/kB, 0.000225 BTC for 223 bytes
+0.01098238 BTC total value (sends 0.00 BTC and receives 0.01098238 BTC)
+  confidence: Appeared in best chain at height 1669535, depth 66. Source: NETWORK
+  18866d7e03a0b8958769382afe24ff7671fbc911cbdf3006fd1fbb3a3c49c4cf
+  updated: 2020-03-11T12:45:06Z
+  version 2
+  time locked until block 1669534
+  purpose: UNKNOWN
+     in   PUSHDATA(22)[0014f291210a0ee3a75b033aa10926af271d96524f20]
+          unconnected  outpoint:9dc7316f5a43dd42c3f20c4f0e1d2870eef4ec683cf251ca4e3b543336946502:1
+          sequence:fffffffe
+     out  DUP HASH160 PUSHDATA(20)[f190520f1bf78f5f418ec574a4b0ffcc67c3e8bd] EQUALVERIFY CHECKSIG  0.01098238 BTC
+          P2PKH addr:n3YE2rPKNhefnjrSHvEScXazNaSyeK52ML  spent by:905277665a3eb6cd1cf0af30b00f15db3ec6fc7ae86b3c150aa2fdcdb589d0b1:0
+     out  HASH160 PUSHDATA(20)[68a66f6d6a304638780e5e91aa9accce4d9d7a14] EQUAL  77.54615822 BTC
+          P2SH addr:2N2nZeMnQYrxnE8yJbG3gZ7EUa6HP29RGRL
+
+We created the watching wallet: bitcoinj02createwalletW.wallet
+Determistic watchingKey serializePubB58 (full)    : tpubD8WRr3vpDwybtseRYzbP739wJw4vSMcRAvw6QifMh5ZNJTKwp5QRmymsjjLHp6kZqMPAVEqsZcAfqSApUS8mtLbwzyxAM5XFQMh3eZ73PRy
+Determistic watchingKey serializePubB58 (watching): tpubD8WRr3vpDwybtseRYzbP739wJw4vSMcRAvw6QifMh5ZNJTKwp5QRmymsjjLHp6kZqMPAVEqsZcAfqSApUS8mtLbwzyxAM5XFQMh3eZ73PRy
+**********************************************************************************
+Dump the watching wallet before reorganisation bitcoinj02createwalletW.wallet
+Wallet
+Balances:
+  0.00 BTC ESTIMATED
+  0.00 BTC AVAILABLE
+  0.00 BTC ESTIMATED_SPENDABLE
+  0.00 BTC AVAILABLE_SPENDABLE
+Transactions:
+  0 pending
+  0 unspent
+  0 spent
+  0 dead
+Last seen best block: 0 (time unknown): null
+Wallet is watching.
+
+Keys:
+Earliest creation time: 2020-02-29T09:44:25Z
+Key birthday:      1582969465  [2020-02-29T09:44:25Z]
+Ouput script type: P2PKH
+Key to watch:      tpubD8WRr3vpDwybtseRYzbP739wJw4vSMcRAvw6QifMh5ZNJTKwp5QRmymsjjLHp6kZqMPAVEqsZcAfqSApUS8mtLbwzyxAM5XFQMh3eZ73PRy
+Lookahead siz/thr: 100/33
+  addr:mogznRmPEcfXBJimuGM8CojsWUtPVfQ3VM  hash160:59a73e67ba416d45b46da3be18b9f3f0004ee364  (M/0H, account)
+  addr:mrng5UWQZgVDRK5i1VqaAAAvcZQpaS4iXN  hash160:7ba28078b4fed09e357e94ed8e161205594baeea  (M/0H/0, external)
+  addr:mywm94fnykAXEw6ZcFFpha83LE37WU8EXc  hash160:ca2359f7364347cd452ed41e11c744e52538228a  (M/0H/1, internal)
+
+Load the wallet in WalletAppKit: bitcoinj02createwalletW.wallet
+I'm going online to reimport the transactions, please be patient (maybe 1 to 2 minutes)...
+
+**********************************************************************************
+Dump the watching wallet after reorganiation: bitcoinj02createwalletW.wallet
+Wallet
+Balances:
+  0.01646622 BTC ESTIMATED
+  0.01646622 BTC AVAILABLE
+  0.00 BTC ESTIMATED_SPENDABLE
+  0.00 BTC AVAILABLE_SPENDABLE
+Transactions:
+  0 pending
+  4 unspent
+  2 spent
+  0 dead
+Last seen best block: 1669830 (2020-03-15T12:40:32Z): 000000000000005cbc5daaf9e32636f46d1c16bfe166d9ec7640880a4f61dacf
+Wallet is watching.
+
+Keys:
+Earliest creation time: 2020-02-29T09:44:25Z
+Key birthday:      1582969465  [2020-02-29T09:44:25Z]
+Ouput script type: P2PKH
+Key to watch:      tpubD6NzVbkztN62gkBwS81yzkMy1AZnVSpZbFnW1N19z86T7EXV9rs15Ln5Ym1M1Utk4BzH6q5vSDvGNQ9K1H72j3LTqw2JBbH6792WyMst7gc
+Lookahead siz/thr: 100/33
+  addr:mogznRmPEcfXBJimuGM8CojsWUtPVfQ3VM  hash160:59a73e67ba416d45b46da3be18b9f3f0004ee364  (M/0H, account)
+  addr:mrng5UWQZgVDRK5i1VqaAAAvcZQpaS4iXN  hash160:7ba28078b4fed09e357e94ed8e161205594baeea  (M/0H/0, external)
+  addr:mywm94fnykAXEw6ZcFFpha83LE37WU8EXc  hash160:ca2359f7364347cd452ed41e11c744e52538228a  (M/0H/1, internal)
+  addr:n3YE2rPKNhefnjrSHvEScXazNaSyeK52ML  hash160:f190520f1bf78f5f418ec574a4b0ffcc67c3e8bd  (M/0H/0/0)
+  addr:mv9oQZVFgjb7Y1RSR2Phpg3F1DnrRSLuG5  hash160:a089bb7dbebabee14692fedd5e1e1a91e98e89ee  (M/0H/0/1)
+  addr:n3Wa5ZC1ihiR4BbUBU2tfq4A7v14kanTiq  hash160:f140390225dabfac9d9a5157f5f27140948f9a75  (M/0H/0/2)
+  addr:mnzUr2qbm8gDQQoMjz3k9UhiPuNq6QDFA5  hash160:51fd9d4bf19749a00f87b5166bd4ebbd93e0661c  (M/0H/0/3)
+  addr:myA5v3sQo4VdhFGNJ9Gv22aRLnw7q7KhDw  hash160:c17fe3e9ea4561d70dc255a266d5eab4c8e10997  (M/0H/1/0)
+  addr:mmkoqyZzzP9fPS6LD6i1xPy7UtAkX1YLi7  hash160:446f865811cad957a865e4514e83f1234bf708d8  (M/0H/1/1)
+
+>>> UNSPENT:
+0.0001 BTC total value (sends 0.00 BTC and receives 0.0001 BTC)
+  confidence: Appeared in best chain at height 1669682, depth 149. Source: NETWORK
+  147ceb133fb04577e6e724e46e8792042ba02bdd01086792505aec6583ffb9f5
+  updated: 2020-03-13T14:03:06Z
+  version 2
+  time locked until block 1669680
+  purpose: UNKNOWN
+     in   PUSHDATA(22)[00148843535b110ab5f67b1d6388b350009ce2aaa934]
+          unconnected  outpoint:207cb72e6db8188ceb0d376bd0ae7327e7963ec2ddf52b96a42b6c268f16c8ea:1
+          sequence:fffffffe
+     out  DUP HASH160 PUSHDATA(20)[51fd9d4bf19749a00f87b5166bd4ebbd93e0661c] EQUALVERIFY CHECKSIG  0.0001 BTC
+          P2PKH addr:mnzUr2qbm8gDQQoMjz3k9UhiPuNq6QDFA5
+     out  HASH160 PUSHDATA(20)[7d987bfed51da64f7c621f3c38803f21835dca1a] EQUAL  0.08772392 BTC
+          P2SH addr:2N4hK84XafPwXBi7tq21PBySQ2dp4umdiqc
+0.0001 BTC total value (sends 0.00 BTC and receives 0.0001 BTC)
+  confidence: Appeared in best chain at height 1669603, depth 228. Source: NETWORK
+  60cf0367187eb8d324a1e692e47e6aabc60c327ca87ebb2b0114e8b30168db3e
+  updated: 2020-03-12T11:23:07Z
+  version 2
+  time locked until block 1669602
+  purpose: UNKNOWN
+     in   PUSHDATA(22)[0014304ff80719b34ac3099ff42e60e5f0f3438174d3]
+          unconnected  outpoint:51d6e4204323ea8d9eff6490915329f2c407248d1ffa105b9a60a574a4afe00d:1
+          sequence:fffffffe
+     out  HASH160 PUSHDATA(20)[4959dedd1f4b25638344a45f9d7db4a6b1f638de] EQUAL  0.96746057 BTC
+          P2SH addr:2Myw4ybxy1D8mkrsfnU1B3H7nAjPLMvbymV
+     out  DUP HASH160 PUSHDATA(20)[f140390225dabfac9d9a5157f5f27140948f9a75] EQUALVERIFY CHECKSIG  0.0001 BTC
+          P2PKH addr:n3Wa5ZC1ihiR4BbUBU2tfq4A7v14kanTiq
+-0.001425 BTC total value (sends 0.00575738 BTC and receives 0.00433238 BTC)
+  confidence: Appeared in best chain at height 1669600, depth 231. Source: NETWORK
+  3b04ff0742625ad5123e3a6bc74b407fde68e098c97244bd6a413b9550effe34
+  updated: 2020-03-12T10:22:01Z
+  purpose: UNKNOWN
+     in   PUSHDATA(72)[3045022100f873e0f5d4d3b9302aaa2cb374443e000a5c2e17cdd44bb4389056a36ab935880220632dd6451bcf235f20393f3545eaec98a0159fda9281031eb1851bf5e5f90cc301] PUSHDATA(33)[0325eab72b88d818f9b61456586151eeeafed64687c0ea666e8b9c64d57074a435]  0.00575738 BTC
+          P2PKH addr:myA5v3sQo4VdhFGNJ9Gv22aRLnw7q7KhDw  outpoint:905277665a3eb6cd1cf0af30b00f15db3ec6fc7ae86b3c150aa2fdcdb589d0b1:0
+     out  HASH160 PUSHDATA(20)[41a37afc980ac078df37b24f2a687102f79b0ab3] EQUAL  0.0012 BTC
+          P2SH addr:2MyEHka6Whdt87LyK3VuUGGfuWkNTtSD3Hj
+     out  DUP HASH160 PUSHDATA(20)[446f865811cad957a865e4514e83f1234bf708d8] EQUALVERIFY CHECKSIG  0.00433238 BTC
+          P2PKH addr:mmkoqyZzzP9fPS6LD6i1xPy7UtAkX1YLi7
+     fee  0.00100446 BTC/kB, 0.000225 BTC for 224 bytes
+0.01193384 BTC total value (sends 0.00 BTC and receives 0.01193384 BTC)
+  confidence: Appeared in best chain at height 1669600, depth 231. Source: NETWORK
+  aa844f9e5f93716e5207b1479ba9c1209a3660a1a1514f9f0d6b3fa0164e1770
+  updated: 2020-03-12T10:22:01Z
+  version 2
+  time locked until block 1669599
+  purpose: UNKNOWN
+     in   PUSHDATA(22)[0014c8ddfc57886eefc15d8aca178e0af380bfc438e6]
+          unconnected  outpoint:b28a7c419643181599db28f288c861d4ca9c87f26a3ea82028fc787f51acb5ee:1
+          sequence:fffffffe
+     out  HASH160 PUSHDATA(20)[d41022753b1f1f4fd4c2f2e7cdd51afd86623b43] EQUAL  71.17587963 BTC
+          P2SH addr:2NCaWa1AswER8a2tTNFbRrRgbo6nnAEHmKb
+     out  DUP HASH160 PUSHDATA(20)[f140390225dabfac9d9a5157f5f27140948f9a75] EQUALVERIFY CHECKSIG  0.01193384 BTC
+          P2PKH addr:n3Wa5ZC1ihiR4BbUBU2tfq4A7v14kanTiq
+
+>>> SPENT:
+-0.005225 BTC total value (sends 0.01098238 BTC and receives 0.00575738 BTC)
+  confidence: Appeared in best chain at height 1669539, depth 292. Source: NETWORK
+  905277665a3eb6cd1cf0af30b00f15db3ec6fc7ae86b3c150aa2fdcdb589d0b1
+  updated: 2020-03-11T13:55:45Z
+  purpose: UNKNOWN
+     in   PUSHDATA(71)[304402201c175385ce3dd9ca411060949b3f5bfc16840623236aee73bb88002ab5cdb0fc0220797f97d2fedf72de4493e7c745cd7b0f55ee416a4f84adb95815d418545dfead01] PUSHDATA(33)[02c8508a80ac5c29b891a443b599e827155a71cb9ab702c3745a083bbbdc98155a]  0.01098238 BTC
+          P2PKH addr:n3YE2rPKNhefnjrSHvEScXazNaSyeK52ML  outpoint:18866d7e03a0b8958769382afe24ff7671fbc911cbdf3006fd1fbb3a3c49c4cf:0
+     out  DUP HASH160 PUSHDATA(20)[c17fe3e9ea4561d70dc255a266d5eab4c8e10997] EQUALVERIFY CHECKSIG  0.00575738 BTC
+          P2PKH addr:myA5v3sQo4VdhFGNJ9Gv22aRLnw7q7KhDw  spent by:3b04ff0742625ad5123e3a6bc74b407fde68e098c97244bd6a413b9550effe34:0
+     out  HASH160 PUSHDATA(20)[41a37afc980ac078df37b24f2a687102f79b0ab3] EQUAL  0.005 BTC
+          P2SH addr:2MyEHka6Whdt87LyK3VuUGGfuWkNTtSD3Hj
+     fee  0.00100896 BTC/kB, 0.000225 BTC for 223 bytes
+0.01098238 BTC total value (sends 0.00 BTC and receives 0.01098238 BTC)
+  confidence: Appeared in best chain at height 1669535, depth 296. Source: NETWORK
+  18866d7e03a0b8958769382afe24ff7671fbc911cbdf3006fd1fbb3a3c49c4cf
+  updated: 2020-03-11T12:45:06Z
+  version 2
+  time locked until block 1669534
+  purpose: UNKNOWN
+     in   PUSHDATA(22)[0014f291210a0ee3a75b033aa10926af271d96524f20]
+          unconnected  outpoint:9dc7316f5a43dd42c3f20c4f0e1d2870eef4ec683cf251ca4e3b543336946502:1
+          sequence:fffffffe
+     out  DUP HASH160 PUSHDATA(20)[f190520f1bf78f5f418ec574a4b0ffcc67c3e8bd] EQUALVERIFY CHECKSIG  0.01098238 BTC
+          P2PKH addr:n3YE2rPKNhefnjrSHvEScXazNaSyeK52ML  spent by:905277665a3eb6cd1cf0af30b00f15db3ec6fc7ae86b3c150aa2fdcdb589d0b1:0
+     out  HASH160 PUSHDATA(20)[68a66f6d6a304638780e5e91aa9accce4d9d7a14] EQUAL  77.54615822 BTC
+          P2SH addr:2N2nZeMnQYrxnE8yJbG3gZ7EUa6HP29RGRL
+
+Converting was successfull
