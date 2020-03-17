@@ -1,0 +1,20 @@
+BitcoinJ 06 Erzeuge eine Transaction (Ueberweisung)
+Das Programm arbeitet im Netzwerk: org.bitcoin.test
+Startzeit des WalletAppKit  : 17.03.2020 16:33:53
+
+Aktuelle Empfangsadresse    : mg82tqqrRZfhuM6ordipcaoSiDXLigkiBj
+Balance/Guthaben verfuegbar : 0.02339727 BTC (entspricht 23.39727 mBTC)
+Transactionen Pending       : 0
+Transactions Unspent        : 5
+Transactions Spent          : 17
+Transactions Dead           : 0
+Empfaengeradresse           : 2MyEHka6Whdt87LyK3VuUGGfuWkNTtSD3Hj
+Transaktionsbetrag: 0.001 BTC (entspricht 1 mBTC) an diese Adresse: 2MyEHka6Whdt87LyK3VuUGGfuWkNTtSD3Hj
+
+Die Transaktion wurde ausgefuehrt !
+Sendedatum: (request update time)    : Tue Mar 17 16:34:20 CET 2020
+Transaktions-ID (sendresult TxId)    : 4e7c11ec81b28a5adfb4807341df2647dde56121ecb4c106603e45b4066e2c18
+Transaktionsbetrag                   : -0.001225 BTC (entspricht -1.225 mBTC)
+Gebuehr (sendresult broadcast fee)   : 0.000225 BTC (entspricht 0.225 mBTC)
+
+Endezeit des WalletAppKit   : 17.03.2020 16:34:35
