@@ -1,0 +1,34 @@
+BitcoinJ 07 Zeige die Transaktionen eines Wallets tabellarisch
+Das Programm arbeitet im Netzwerk: org.bitcoin.test
+Startzeit des WalletAppKit  : 18.03.2020 10:43:58
+Bitte warten, das Wallet App Kit geht online und aktualisiert das Wallet
+Ausgabe der Transaktionen des Wallets tabellearisch
+**********************************************************************************************************************************************
+Nr. Richtung        Datum + Uhrzeit       Tx Betrag in BTC    Fee in BTC Dep Transaction ID
+ 24 Zahlungseingang 17.03.2020 17:04:39           0.00 BTC       0.00 BTC 113 951b6137b3b3a04b78486ae5e6d2564b01c4fef59d20ca8927a07ca1e1231175
+ 23 Zahlungsausgang 17.03.2020 16:44:29         -0.001 BTC   0.000225 BTC 114 4e7c11ec81b28a5adfb4807341df2647dde56121ecb4c106603e45b4066e2c18
+ 22 Zahlungseingang 17.03.2020 14:15:39           0.00 BTC       0.00 BTC 126 27df279e8721cd30394e16f5181e508d8f57689715a6a9f43410bbd6623314e4
+ 21 Zahlungsausgang 17.03.2020 14:12:59         -0.001 BTC   0.000374 BTC 127 59ffadf84d1b17ab0ec655756d361b71d549d4901d4a2ece4addb4c9edb801be
+ 20 Zahlungsausgang 17.03.2020 14:12:59         -0.001 BTC   0.000374 BTC 127 7b1a8fa596536be249631737cefd706fbea9239dc35449a53dfe2b2d0bdd6177
+ 19 Zahlungsausgang 17.03.2020 14:12:59         -0.001 BTC   0.000225 BTC 127 ae1e70df67155e208e6013d15433ea5aaaa965dbecdc81aca81fa16513b50466
+ 18 Zahlungsausgang 17.03.2020 14:12:59         -0.001 BTC   0.000225 BTC 127 5d5d22c35ef0d9ba0588a944b9bdcbc1fd191d4a6ba5184a586019f4e5a62e53
+ 17 Zahlungsausgang 17.03.2020 14:12:59         -0.001 BTC   0.000225 BTC 127 ee9bc13d7f0f41d8eed8014a59085bfc6ca55d266e33ff36bb5ad3614fead1d2
+ 16 Zahlungsausgang 17.03.2020 13:52:43         -0.001 BTC   0.000225 BTC 128 6ba9adf42b9c4463984531db8b12bc6840567341ebb19b9df24bdcc284a630b2
+ 15 Zahlungsausgang 17.03.2020 13:52:43         -0.001 BTC   0.000225 BTC 128 69b2f6ed69fa6afa9a23444f25eb239b165b092fe96805178107421ec18bc03e
+ 14 Zahlungsausgang 17.03.2020 13:32:39         -0.001 BTC   0.000225 BTC 129 fd5a14fd75cbaf0d3ad017a1d7a3935bdc5e33005bbd5c5d02fac4248bb7dace
+ 13 Zahlungsausgang 17.03.2020 13:32:39         -0.001 BTC   0.000225 BTC 129 41063813cac83e28233d9facc2df05f1ded2faa66b042ea7ffb3eabc020a87b3
+ 12 Zahlungsausgang 17.03.2020 13:19:33           0.00 BTC   0.000674 BTC 130 ff71b0c15b87a295b4a59bc7db1e96c52e46b4a4e269c8c88b95b27ce60e7f7e
+ 11 Zahlungsausgang 17.03.2020 13:19:33           0.00 BTC   0.000227 BTC 130 bd630add4ca45435c5ad29313d29efee53f990c551b16dee343f6dc0510806bc
+ 10 Zahlungsausgang 17.03.2020 13:19:33           0.00 BTC   0.000227 BTC 130 1915fc8e81695ed196b45cde18b39ea1e19627c091aa26837c52132453bcb1c9
+  9 Zahlungsausgang 17.03.2020 13:19:33           0.00 BTC   0.000227 BTC 130 207bd90e41dd34e22faa639ba6b2608ef0a50fc00de6c4246df680cd0913cf0c
+  8 Zahlungsausgang 15.03.2020 19:25:46      -0.000051 BTC   0.000225 BTC 463 db6ccf60d1953a24fb184c63f08976e569eb91ab6aa61f6be13bda0f4d6fd8ec
+  7 Zahlungseingang 15.03.2020 19:25:46           0.00 BTC       0.00 BTC 463 f1385570beffb71aa075ac92311b722a09b31b0d85a19481014b9fd898ed2489
+  6 Zahlungseingang 13.03.2020 15:03:06           0.00 BTC       0.00 BTC 631 147ceb133fb04577e6e724e46e8792042ba02bdd01086792505aec6583ffb9f5
+  5 Zahlungseingang 12.03.2020 12:23:07           0.00 BTC       0.00 BTC 710 60cf0367187eb8d324a1e692e47e6aabc60c327ca87ebb2b0114e8b30168db3e
+  4 Zahlungsausgang 12.03.2020 11:07:00        -0.0012 BTC   0.000225 BTC 713 3b04ff0742625ad5123e3a6bc74b407fde68e098c97244bd6a413b9550effe34
+  3 Zahlungseingang 12.03.2020 11:03:18           0.00 BTC       0.00 BTC 713 aa844f9e5f93716e5207b1479ba9c1209a3660a1a1514f9f0d6b3fa0164e1770
+  2 Zahlungsausgang 11.03.2020 14:41:17         -0.005 BTC   0.000225 BTC 774 905277665a3eb6cd1cf0af30b00f15db3ec6fc7ae86b3c150aa2fdcdb589d0b1
+  1 Zahlungseingang 11.03.2020 13:45:06           0.00 BTC       0.00 BTC 778 18866d7e03a0b8958769382afe24ff7671fbc911cbdf3006fd1fbb3a3c49c4cf
+**********************************************************************************************************************************************
+
+Endezeit des WalletAppKit   : 18.03.2020 10:44:07

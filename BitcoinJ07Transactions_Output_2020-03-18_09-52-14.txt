@@ -1,0 +1,325 @@
+BitcoinJ 07 Zeige die Transaktionen eines Wallets
+Das Programm arbeitet im Netzwerk: org.bitcoin.test
+Startzeit des WalletAppKit  : 18.03.2020 09:52:15
+Bitte warten, das Wallet App Kit geht online und aktualisiert das Wallet
+**********************************************************************************************************************************************
+Ausgabe der Transaktionen des Wallets
+Es befinden sich 24 Transaktionen im Wallet, die aktuellste steht oben
+---------------------------------------------------------------------------------
+Transaktion Nummer 24 Zahlungseingang
+Transaktions-Id: 951b6137b3b3a04b78486ae5e6d2564b01c4fef59d20ca8927a07ca1e1231175
+Transaktionsdatum                        : Tue Mar 17 17:04:39 CET 2020
+Transaktionsbetrag (getValue)            : 0.01519059 BTC
+Transaktionsgebuehr (fee)                : wegen Zahlungseingang keine Fee
+Grund der Transaktion (purpose)          : UNKNOWN
+Confidence (Bestaetigungen)              : Appeared in best chain at height 1670200, depth 109. Source: NETWORK
+Confidence (Bestaetigungen) (Depth/Tiefe): 109
+Confidence (Bestaetigungen) (Type)       : BUILDING
+Confidence (Bestaetigungen) (ChainHeight): 1670200
+---------------------------------------------------------------------------------
+Transaktion Nummer 23 Zahlungsausgang
+Transaktions-Id: 4e7c11ec81b28a5adfb4807341df2647dde56121ecb4c106603e45b4066e2c18
+Transaktionsdatum                        : Tue Mar 17 16:44:29 CET 2020
+Transaktionsbetrag (getValue)            : -0.001225 BTC
+Transaktionsgebuehr (getFee)             : -0.000225 BTC
+Transaktionsbetrag  (getValueSendFromMe) : -0.01488305 BTC
+Transaktionsbetrag  (getValueSendToMe)   :  0.01365805 BTC
+Transaktionsbetrag an Empfaenger         : -0.001 BTC
+Grund der Transaktion (purpose)          : UNKNOWN
+Confidence (Bestaetigungen)              : Appeared in best chain at height 1670199, depth 110. Source: NETWORK
+Confidence (Bestaetigungen) (Depth/Tiefe): 110
+Confidence (Bestaetigungen) (Type)       : BUILDING
+Confidence (Bestaetigungen) (ChainHeight): 1670199
+---------------------------------------------------------------------------------
+Transaktion Nummer 22 Zahlungseingang
+Transaktions-Id: 27df279e8721cd30394e16f5181e508d8f57689715a6a9f43410bbd6623314e4
+Transaktionsdatum                        : Tue Mar 17 14:15:39 CET 2020
+Transaktionsbetrag (getValue)            : 0.0001 BTC
+Transaktionsgebuehr (fee)                : wegen Zahlungseingang keine Fee
+Grund der Transaktion (purpose)          : UNKNOWN
+Confidence (Bestaetigungen)              : Appeared in best chain at height 1670187, depth 122. Source: NETWORK
+Confidence (Bestaetigungen) (Depth/Tiefe): 122
+Confidence (Bestaetigungen) (Type)       : BUILDING
+Confidence (Bestaetigungen) (ChainHeight): 1670187
+---------------------------------------------------------------------------------
+Transaktion Nummer 21 Zahlungsausgang
+Transaktions-Id: 59ffadf84d1b17ab0ec655756d361b71d549d4901d4a2ece4addb4c9edb801be
+Transaktionsdatum                        : Tue Mar 17 14:12:59 CET 2020
+Transaktionsbetrag (getValue)            : -0.001374 BTC
+Transaktionsgebuehr (getFee)             : -0.000374 BTC
+Transaktionsbetrag  (getValueSendFromMe) : -0.00240638 BTC
+Transaktionsbetrag  (getValueSendToMe)   :  0.00103238 BTC
+Transaktionsbetrag an Empfaenger         : -0.001 BTC
+Grund der Transaktion (purpose)          : UNKNOWN
+Confidence (Bestaetigungen)              : Appeared in best chain at height 1670186, depth 123. Source: NETWORK
+Confidence (Bestaetigungen) (Depth/Tiefe): 123
+Confidence (Bestaetigungen) (Type)       : BUILDING
+Confidence (Bestaetigungen) (ChainHeight): 1670186
+---------------------------------------------------------------------------------
+Transaktion Nummer 20 Zahlungsausgang
+Transaktions-Id: 7b1a8fa596536be249631737cefd706fbea9239dc35449a53dfe2b2d0bdd6177
+Transaktionsdatum                        : Tue Mar 17 14:12:59 CET 2020
+Transaktionsbetrag (getValue)            : -0.001374 BTC
+Transaktionsgebuehr (getFee)             : -0.000374 BTC
+Transaktionsbetrag  (getValueSendFromMe) : -0.002 BTC
+Transaktionsbetrag  (getValueSendToMe)   :  0.000626 BTC
+Transaktionsbetrag an Empfaenger         : -0.001 BTC
+Grund der Transaktion (purpose)          : UNKNOWN
+Confidence (Bestaetigungen)              : Appeared in best chain at height 1670186, depth 123. Source: NETWORK
+Confidence (Bestaetigungen) (Depth/Tiefe): 123
+Confidence (Bestaetigungen) (Type)       : BUILDING
+Confidence (Bestaetigungen) (ChainHeight): 1670186
+---------------------------------------------------------------------------------
+Transaktion Nummer 19 Zahlungsausgang
+Transaktions-Id: ae1e70df67155e208e6013d15433ea5aaaa965dbecdc81aca81fa16513b50466
+Transaktionsdatum                        : Tue Mar 17 14:12:59 CET 2020
+Transaktionsbetrag (getValue)            : -0.001225 BTC
+Transaktionsgebuehr (getFee)             : -0.000225 BTC
+Transaktionsbetrag  (getValueSendFromMe) : -0.00798084 BTC
+Transaktionsbetrag  (getValueSendToMe)   :  0.00675584 BTC
+Transaktionsbetrag an Empfaenger         : -0.001 BTC
+Grund der Transaktion (purpose)          : UNKNOWN
+Confidence (Bestaetigungen)              : Appeared in best chain at height 1670186, depth 123. Source: NETWORK
+Confidence (Bestaetigungen) (Depth/Tiefe): 123
+Confidence (Bestaetigungen) (Type)       : BUILDING
+Confidence (Bestaetigungen) (ChainHeight): 1670186
+---------------------------------------------------------------------------------
+Transaktion Nummer 18 Zahlungsausgang
+Transaktions-Id: 5d5d22c35ef0d9ba0588a944b9bdcbc1fd191d4a6ba5184a586019f4e5a62e53
+Transaktionsdatum                        : Tue Mar 17 14:12:59 CET 2020
+Transaktionsbetrag (getValue)            : -0.001225 BTC
+Transaktionsgebuehr (getFee)             : -0.000225 BTC
+Transaktionsbetrag  (getValueSendFromMe) : -0.00310538 BTC
+Transaktionsbetrag  (getValueSendToMe)   :  0.00188038 BTC
+Transaktionsbetrag an Empfaenger         : -0.001 BTC
+Grund der Transaktion (purpose)          : UNKNOWN
+Confidence (Bestaetigungen)              : Appeared in best chain at height 1670186, depth 123. Source: NETWORK
+Confidence (Bestaetigungen) (Depth/Tiefe): 123
+Confidence (Bestaetigungen) (Type)       : BUILDING
+Confidence (Bestaetigungen) (ChainHeight): 1670186
+---------------------------------------------------------------------------------
+Transaktion Nummer 17 Zahlungsausgang
+Transaktions-Id: ee9bc13d7f0f41d8eed8014a59085bfc6ca55d266e33ff36bb5ad3614fead1d2
+Transaktionsdatum                        : Tue Mar 17 14:12:59 CET 2020
+Transaktionsbetrag (getValue)            : -0.001225 BTC
+Transaktionsgebuehr (getFee)             : -0.000225 BTC
+Transaktionsbetrag  (getValueSendFromMe) : -0.01610805 BTC
+Transaktionsbetrag  (getValueSendToMe)   :  0.01488305 BTC
+Transaktionsbetrag an Empfaenger         : -0.001 BTC
+Grund der Transaktion (purpose)          : UNKNOWN
+Confidence (Bestaetigungen)              : Appeared in best chain at height 1670186, depth 123. Source: NETWORK
+Confidence (Bestaetigungen) (Depth/Tiefe): 123
+Confidence (Bestaetigungen) (Type)       : BUILDING
+Confidence (Bestaetigungen) (ChainHeight): 1670186
+---------------------------------------------------------------------------------
+Transaktion Nummer 16 Zahlungsausgang
+Transaktions-Id: 6ba9adf42b9c4463984531db8b12bc6840567341ebb19b9df24bdcc284a630b2
+Transaktionsdatum                        : Tue Mar 17 13:52:43 CET 2020
+Transaktionsbetrag (getValue)            : -0.001225 BTC
+Transaktionsgebuehr (getFee)             : -0.000225 BTC
+Transaktionsbetrag  (getValueSendFromMe) : -0.01733305 BTC
+Transaktionsbetrag  (getValueSendToMe)   :  0.01610805 BTC
+Transaktionsbetrag an Empfaenger         : -0.001 BTC
+Grund der Transaktion (purpose)          : UNKNOWN
+Confidence (Bestaetigungen)              : Appeared in best chain at height 1670185, depth 124. Source: NETWORK
+Confidence (Bestaetigungen) (Depth/Tiefe): 124
+Confidence (Bestaetigungen) (Type)       : BUILDING
+Confidence (Bestaetigungen) (ChainHeight): 1670185
+---------------------------------------------------------------------------------
+Transaktion Nummer 15 Zahlungsausgang
+Transaktions-Id: 69b2f6ed69fa6afa9a23444f25eb239b165b092fe96805178107421ec18bc03e
+Transaktionsdatum                        : Tue Mar 17 13:52:43 CET 2020
+Transaktionsbetrag (getValue)            : -0.001225 BTC
+Transaktionsgebuehr (getFee)             : -0.000225 BTC
+Transaktionsbetrag  (getValueSendFromMe) : -0.00920584 BTC
+Transaktionsbetrag  (getValueSendToMe)   :  0.00798084 BTC
+Transaktionsbetrag an Empfaenger         : -0.001 BTC
+Grund der Transaktion (purpose)          : UNKNOWN
+Confidence (Bestaetigungen)              : Appeared in best chain at height 1670185, depth 124. Source: NETWORK
+Confidence (Bestaetigungen) (Depth/Tiefe): 124
+Confidence (Bestaetigungen) (Type)       : BUILDING
+Confidence (Bestaetigungen) (ChainHeight): 1670185
+---------------------------------------------------------------------------------
+Transaktion Nummer 14 Zahlungsausgang
+Transaktions-Id: fd5a14fd75cbaf0d3ad017a1d7a3935bdc5e33005bbd5c5d02fac4248bb7dace
+Transaktionsdatum                        : Tue Mar 17 13:32:39 CET 2020
+Transaktionsbetrag (getValue)            : -0.001225 BTC
+Transaktionsgebuehr (getFee)             : -0.000225 BTC
+Transaktionsbetrag  (getValueSendFromMe) : -0.01855805 BTC
+Transaktionsbetrag  (getValueSendToMe)   :  0.01733305 BTC
+Transaktionsbetrag an Empfaenger         : -0.001 BTC
+Grund der Transaktion (purpose)          : UNKNOWN
+Confidence (Bestaetigungen)              : Appeared in best chain at height 1670184, depth 125. Source: NETWORK
+Confidence (Bestaetigungen) (Depth/Tiefe): 125
+Confidence (Bestaetigungen) (Type)       : BUILDING
+Confidence (Bestaetigungen) (ChainHeight): 1670184
+---------------------------------------------------------------------------------
+Transaktion Nummer 13 Zahlungsausgang
+Transaktions-Id: 41063813cac83e28233d9facc2df05f1ded2faa66b042ea7ffb3eabc020a87b3
+Transaktionsdatum                        : Tue Mar 17 13:32:39 CET 2020
+Transaktionsbetrag (getValue)            : -0.001225 BTC
+Transaktionsgebuehr (getFee)             : -0.000225 BTC
+Transaktionsbetrag  (getValueSendFromMe) : -0.01043084 BTC
+Transaktionsbetrag  (getValueSendToMe)   :  0.00920584 BTC
+Transaktionsbetrag an Empfaenger         : -0.001 BTC
+Grund der Transaktion (purpose)          : UNKNOWN
+Confidence (Bestaetigungen)              : Appeared in best chain at height 1670184, depth 125. Source: NETWORK
+Confidence (Bestaetigungen) (Depth/Tiefe): 125
+Confidence (Bestaetigungen) (Type)       : BUILDING
+Confidence (Bestaetigungen) (ChainHeight): 1670184
+---------------------------------------------------------------------------------
+Transaktion Nummer 12 Zahlungsausgang
+Transaktions-Id: ff71b0c15b87a295b4a59bc7db1e96c52e46b4a4e269c8c88b95b27ce60e7f7e
+Transaktionsdatum                        : Tue Mar 17 13:19:33 CET 2020
+Transaktionsbetrag (getValue)            : -0.000674 BTC
+Transaktionsgebuehr (getFee)             : -0.000674 BTC
+Transaktionsbetrag  (getValueSendFromMe) : -0.0022 BTC
+Transaktionsbetrag  (getValueSendToMe)   :  0.001526 BTC
+Transaktionsbetrag an Empfaenger         : 0.00 BTC
+Grund der Transaktion (purpose)          : UNKNOWN
+Confidence (Bestaetigungen)              : Appeared in best chain at height 1670183, depth 126. Source: NETWORK
+Confidence (Bestaetigungen) (Depth/Tiefe): 126
+Confidence (Bestaetigungen) (Type)       : BUILDING
+Confidence (Bestaetigungen) (ChainHeight): 1670183
+---------------------------------------------------------------------------------
+Transaktion Nummer 11 Zahlungsausgang
+Transaktions-Id: bd630add4ca45435c5ad29313d29efee53f990c551b16dee343f6dc0510806bc
+Transaktionsdatum                        : Tue Mar 17 13:19:33 CET 2020
+Transaktionsbetrag (getValue)            : -0.000227 BTC
+Transaktionsgebuehr (getFee)             : -0.000227 BTC
+Transaktionsbetrag  (getValueSendFromMe) : -0.01165784 BTC
+Transaktionsbetrag  (getValueSendToMe)   :  0.01143084 BTC
+Transaktionsbetrag an Empfaenger         : 0.00 BTC
+Grund der Transaktion (purpose)          : UNKNOWN
+Confidence (Bestaetigungen)              : Appeared in best chain at height 1670183, depth 126. Source: NETWORK
+Confidence (Bestaetigungen) (Depth/Tiefe): 126
+Confidence (Bestaetigungen) (Type)       : BUILDING
+Confidence (Bestaetigungen) (ChainHeight): 1670183
+---------------------------------------------------------------------------------
+Transaktion Nummer 10 Zahlungsausgang
+Transaktions-Id: 1915fc8e81695ed196b45cde18b39ea1e19627c091aa26837c52132453bcb1c9
+Transaktionsdatum                        : Tue Mar 17 13:19:33 CET 2020
+Transaktionsbetrag (getValue)            : -0.000227 BTC
+Transaktionsgebuehr (getFee)             : -0.000227 BTC
+Transaktionsbetrag  (getValueSendFromMe) : -0.00433238 BTC
+Transaktionsbetrag  (getValueSendToMe)   :  0.00410538 BTC
+Transaktionsbetrag an Empfaenger         : 0.00 BTC
+Grund der Transaktion (purpose)          : UNKNOWN
+Confidence (Bestaetigungen)              : Appeared in best chain at height 1670183, depth 126. Source: NETWORK
+Confidence (Bestaetigungen) (Depth/Tiefe): 126
+Confidence (Bestaetigungen) (Type)       : BUILDING
+Confidence (Bestaetigungen) (ChainHeight): 1670183
+---------------------------------------------------------------------------------
+Transaktion Nummer 9 Zahlungsausgang
+Transaktions-Id: 207bd90e41dd34e22faa639ba6b2608ef0a50fc00de6c4246df680cd0913cf0c
+Transaktionsdatum                        : Tue Mar 17 13:19:33 CET 2020
+Transaktionsbetrag (getValue)            : -0.000227 BTC
+Transaktionsgebuehr (getFee)             : -0.000227 BTC
+Transaktionsbetrag  (getValueSendFromMe) : -0.01978505 BTC
+Transaktionsbetrag  (getValueSendToMe)   :  0.01955805 BTC
+Transaktionsbetrag an Empfaenger         : 0.00 BTC
+Grund der Transaktion (purpose)          : UNKNOWN
+Confidence (Bestaetigungen)              : Appeared in best chain at height 1670183, depth 126. Source: NETWORK
+Confidence (Bestaetigungen) (Depth/Tiefe): 126
+Confidence (Bestaetigungen) (Type)       : BUILDING
+Confidence (Bestaetigungen) (ChainHeight): 1670183
+---------------------------------------------------------------------------------
+Transaktion Nummer 8 Zahlungsausgang
+Transaktions-Id: db6ccf60d1953a24fb184c63f08976e569eb91ab6aa61f6be13bda0f4d6fd8ec
+Transaktionsdatum                        : Sun Mar 15 19:25:46 CET 2020
+Transaktionsbetrag (getValue)            : -0.000276 BTC
+Transaktionsgebuehr (getFee)             : -0.000225 BTC
+Transaktionsbetrag  (getValueSendFromMe) : -0.01193384 BTC
+Transaktionsbetrag  (getValueSendToMe)   :  0.01165784 BTC
+Transaktionsbetrag an Empfaenger         : -0.000051 BTC
+Grund der Transaktion (purpose)          : UNKNOWN
+Confidence (Bestaetigungen)              : Appeared in best chain at height 1669850, depth 459. Source: NETWORK
+Confidence (Bestaetigungen) (Depth/Tiefe): 459
+Confidence (Bestaetigungen) (Type)       : BUILDING
+Confidence (Bestaetigungen) (ChainHeight): 1669850
+---------------------------------------------------------------------------------
+Transaktion Nummer 7 Zahlungseingang
+Transaktions-Id: f1385570beffb71aa075ac92311b722a09b31b0d85a19481014b9fd898ed2489
+Transaktionsdatum                        : Sun Mar 15 19:25:46 CET 2020
+Transaktionsbetrag (getValue)            : 0.01978505 BTC
+Transaktionsgebuehr (fee)                : wegen Zahlungseingang keine Fee
+Grund der Transaktion (purpose)          : UNKNOWN
+Confidence (Bestaetigungen)              : Appeared in best chain at height 1669850, depth 459. Source: NETWORK
+Confidence (Bestaetigungen) (Depth/Tiefe): 459
+Confidence (Bestaetigungen) (Type)       : BUILDING
+Confidence (Bestaetigungen) (ChainHeight): 1669850
+---------------------------------------------------------------------------------
+Transaktion Nummer 6 Zahlungseingang
+Transaktions-Id: 147ceb133fb04577e6e724e46e8792042ba02bdd01086792505aec6583ffb9f5
+Transaktionsdatum                        : Fri Mar 13 15:03:06 CET 2020
+Transaktionsbetrag (getValue)            : 0.0001 BTC
+Transaktionsgebuehr (fee)                : wegen Zahlungseingang keine Fee
+Grund der Transaktion (purpose)          : UNKNOWN
+Confidence (Bestaetigungen)              : Appeared in best chain at height 1669682, depth 627. Source: NETWORK
+Confidence (Bestaetigungen) (Depth/Tiefe): 627
+Confidence (Bestaetigungen) (Type)       : BUILDING
+Confidence (Bestaetigungen) (ChainHeight): 1669682
+---------------------------------------------------------------------------------
+Transaktion Nummer 5 Zahlungseingang
+Transaktions-Id: 60cf0367187eb8d324a1e692e47e6aabc60c327ca87ebb2b0114e8b30168db3e
+Transaktionsdatum                        : Thu Mar 12 12:23:07 CET 2020
+Transaktionsbetrag (getValue)            : 0.0001 BTC
+Transaktionsgebuehr (fee)                : wegen Zahlungseingang keine Fee
+Grund der Transaktion (purpose)          : UNKNOWN
+Confidence (Bestaetigungen)              : Appeared in best chain at height 1669603, depth 706. Source: NETWORK
+Confidence (Bestaetigungen) (Depth/Tiefe): 706
+Confidence (Bestaetigungen) (Type)       : BUILDING
+Confidence (Bestaetigungen) (ChainHeight): 1669603
+---------------------------------------------------------------------------------
+Transaktion Nummer 4 Zahlungsausgang
+Transaktions-Id: 3b04ff0742625ad5123e3a6bc74b407fde68e098c97244bd6a413b9550effe34
+Transaktionsdatum                        : Thu Mar 12 11:07:00 CET 2020
+Transaktionsbetrag (getValue)            : -0.001425 BTC
+Transaktionsgebuehr (getFee)             : -0.000225 BTC
+Transaktionsbetrag  (getValueSendFromMe) : -0.00575738 BTC
+Transaktionsbetrag  (getValueSendToMe)   :  0.00433238 BTC
+Transaktionsbetrag an Empfaenger         : -0.0012 BTC
+Grund der Transaktion (purpose)          : USER_PAYMENT
+Confidence (Bestaetigungen)              : Appeared in best chain at height 1669600, depth 709. Source: NETWORK
+Confidence (Bestaetigungen) (Depth/Tiefe): 709
+Confidence (Bestaetigungen) (Type)       : BUILDING
+Confidence (Bestaetigungen) (ChainHeight): 1669600
+---------------------------------------------------------------------------------
+Transaktion Nummer 3 Zahlungseingang
+Transaktions-Id: aa844f9e5f93716e5207b1479ba9c1209a3660a1a1514f9f0d6b3fa0164e1770
+Transaktionsdatum                        : Thu Mar 12 11:03:18 CET 2020
+Transaktionsbetrag (getValue)            : 0.01193384 BTC
+Transaktionsgebuehr (fee)                : wegen Zahlungseingang keine Fee
+Grund der Transaktion (purpose)          : UNKNOWN
+Confidence (Bestaetigungen)              : Appeared in best chain at height 1669600, depth 709. Source: NETWORK
+Confidence (Bestaetigungen) (Depth/Tiefe): 709
+Confidence (Bestaetigungen) (Type)       : BUILDING
+Confidence (Bestaetigungen) (ChainHeight): 1669600
+---------------------------------------------------------------------------------
+Transaktion Nummer 2 Zahlungsausgang
+Transaktions-Id: 905277665a3eb6cd1cf0af30b00f15db3ec6fc7ae86b3c150aa2fdcdb589d0b1
+Transaktionsdatum                        : Wed Mar 11 14:41:17 CET 2020
+Transaktionsbetrag (getValue)            : -0.005225 BTC
+Transaktionsgebuehr (getFee)             : -0.000225 BTC
+Transaktionsbetrag  (getValueSendFromMe) : -0.01098238 BTC
+Transaktionsbetrag  (getValueSendToMe)   :  0.00575738 BTC
+Transaktionsbetrag an Empfaenger         : -0.005 BTC
+Grund der Transaktion (purpose)          : USER_PAYMENT
+Confidence (Bestaetigungen)              : Appeared in best chain at height 1669539, depth 770. Source: NETWORK
+Confidence (Bestaetigungen) (Depth/Tiefe): 770
+Confidence (Bestaetigungen) (Type)       : BUILDING
+Confidence (Bestaetigungen) (ChainHeight): 1669539
+---------------------------------------------------------------------------------
+Transaktion Nummer 1 Zahlungseingang
+Transaktions-Id: 18866d7e03a0b8958769382afe24ff7671fbc911cbdf3006fd1fbb3a3c49c4cf
+Transaktionsdatum                        : Wed Mar 11 13:45:06 CET 2020
+Transaktionsbetrag (getValue)            : 0.01098238 BTC
+Transaktionsgebuehr (fee)                : wegen Zahlungseingang keine Fee
+Grund der Transaktion (purpose)          : UNKNOWN
+Confidence (Bestaetigungen)              : Appeared in best chain at height 1669535, depth 774. Source: NETWORK
+Confidence (Bestaetigungen) (Depth/Tiefe): 774
+Confidence (Bestaetigungen) (Type)       : BUILDING
+Confidence (Bestaetigungen) (ChainHeight): 1669535
+**********************************************************************************************************************************************
+
+Endezeit des WalletAppKit   : 18.03.2020 09:52:28
